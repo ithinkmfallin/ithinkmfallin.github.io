@@ -1,0 +1,6 @@
+body{
+background-image: url(../img/wakemeupinthesky.jpg);
+min-height: 500px;
+backgrounf-attachment: fixed;
+background-size: cover;
+}
