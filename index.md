@@ -12,9 +12,6 @@ If you’re still reading this and want to know what I’m like, I’m a twenty 
 
 Hey that was about me. I would love it more to listen to your heart the same way you listened to mine.
 
-Also I’m up for the good critics.
-
-P.S.: This is not my first blog post which technically should be. This is the 5th something post which I wrote when I realized something need to be done to fill my hours and to prevent myself from sleeping.
 
 Love,
 Sincerely
