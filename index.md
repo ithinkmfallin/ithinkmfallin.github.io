@@ -3,7 +3,7 @@
 I value curiosity, humility, and simplicity. My happy place is a quiet coffee shop with a good book.
 <br><br><br> 
 
-Setting Up!<br><br><br> </div>
+Setting Up!<br><br><br> 
 
       
 
