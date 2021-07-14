@@ -4,10 +4,10 @@
 <br><br><br> 
 
 <div align="center">Setting Up!<br><br><br> </div>
-<div align="center">
+
      
-[Twitter](https://twitter.com/ithinkmfallin) 
+[<div align="center">Twitter</div>](https://twitter.com/ithinkmfallin) 
 
-[Linkedin](https://www.linkedin.com/in/bhushan24/) 
+[<div align="center">Linkedin</div>](https://www.linkedin.com/in/bhushan24/) 
 
-</div>
+
