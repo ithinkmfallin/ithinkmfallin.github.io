@@ -10,8 +10,8 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 ### Books
 [Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) 
 
-
-Still setting Up!<br><br><br> 
+<br><br><br>
+# Still setting Up!<br><br><br> 
 
       
 
