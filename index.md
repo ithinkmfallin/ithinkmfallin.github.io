@@ -25,6 +25,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Ed Latimore - Boxing, Sobriety, Writing](https://ithinkmfallin.github.io/2021/07/15/ed-latimore) <br>
 [Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade) <br>
 
+<br><br>
 
 <form action="https://formspree.io/mpzyqdng" method="POST">
 <input type="email" placeholder="Email" name="_replyto" required>
