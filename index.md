@@ -27,7 +27,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 <br><br>
 
-<form action="https://formspree.io/mpzyqdng" method="POST">
+<form action="https://formspree.io/f/moqyndrw" method="POST">
 <input type="email" placeholder="Email" name="_replyto" required>
 <input type="text" placeholder="Message" name="Your Message" required>
 <input type="submit" value="Send">
