@@ -14,10 +14,18 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 <br><br><br>
 # Still setting Up!<br><br><br> 
 
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form action="https://formspree.io/f/moqyndrw" method="POST">
+<input type="email" placeholder="Email" name="_replyto" required>
+<input type="submit" value="Send">
+</form>
+
+
       
 
 [Twitter](https://twitter.com/ithinkmfallin) <br>
 
-[Linkedin](https://www.linkedin.com/in/bhushan24/)
+[Linkedin](https://www.linkedin.com/in/bhushan24/) 
 
 
