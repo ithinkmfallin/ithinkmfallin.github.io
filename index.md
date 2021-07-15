@@ -3,7 +3,15 @@
 I value curiosity, humility, and simplicity. My happy place is a quiet coffee shop with a good book.
 <br><br><br> 
 
-Setting Up!<br><br><br> 
+### Notes <br>
+
+This is a page for notes on various books, podcasts, and insights. (Notes not meant to replace the original sources.) <br>
+
+### Books
+[Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) 
+
+
+Still setting Up!<br><br><br> 
 
       
 
