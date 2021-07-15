@@ -11,7 +11,7 @@
 * You can only be example for someone, you can't force them and if they like them they will circle back
 * When you are ready to quit, do it couple more, work on your mind (one more mentality)
 * Doing things which align with highest version of yourself
-
+  
 <br>
 
 [Listen : The Danny Miranda Podcast](https://dannymiranda.com/004-hunter-weiss/)
