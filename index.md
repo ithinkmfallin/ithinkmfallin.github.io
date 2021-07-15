@@ -9,7 +9,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 ### Books
 [Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) 
-[Freedom of the Known] (https://ithinkmfallin.github.io/2021/07/15/freedom-of-the-known) 
+[Freedom of the Known](https://ithinkmfallin.github.io/2021/07/15/freedom-of-the-known) 
 
 <br><br><br>
 # Still setting Up!<br><br><br> 
