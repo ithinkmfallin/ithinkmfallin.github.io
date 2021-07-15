@@ -11,6 +11,13 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) <br>
 [Freedom of the Known](https://ithinkmfallin.github.io/2021/07/15/freedom-of-the-known) 
 
+<br>
+
+### Podcasts
+[Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
+[Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
+[Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
+
 <br><br><br>
 # Still setting Up!<br><br><br> 
 
