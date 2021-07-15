@@ -14,16 +14,10 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 <br><br><br>
 # Still setting Up!<br><br><br> 
 
-<!-- modify this form HTML and place wherever you want your form -->
-<label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-<button type="submit">Send</button>
+<form>
+<input type="email" placeholder="Email" name="_replyto" required>
+<input type="text" placeholder="Message" name="Your Message" required>
+<input type="submit" value="Send">
 </form>
 
 
