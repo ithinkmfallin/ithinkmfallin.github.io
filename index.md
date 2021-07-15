@@ -16,7 +16,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
       
 
-[Twitter](https://twitter.com/ithinkmfallin)
+[Twitter](https://twitter.com/ithinkmfallin) <br>
 
 [Linkedin](https://www.linkedin.com/in/bhushan24/)
 
