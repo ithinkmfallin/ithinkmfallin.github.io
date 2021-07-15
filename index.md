@@ -22,8 +22,8 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Uncomfortably Comfortable Ft. Ryan Michler- Part 1](https://ithinkmfallin.github.io/2021/07/15/uncomfortably-comfortable) <br>
 [Hunter Weiss - 50 Mile Run](https://ithinkmfallin.github.io/2021/07/15/hunter-weiss) <br>
 [ Mike Vacanti - On Training Gary Vee, Social Media , Meditation](https://ithinkmfallin.github.io/2021/07/15/mike-vacanti) <br>
-[Ed Latimore - Boxing, Sobriety, Writing](https://ithinkmfallin.github.io/2021/07/15/ed-latimore)
-[Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade)
+[Ed Latimore - Boxing, Sobriety, Writing](https://ithinkmfallin.github.io/2021/07/15/ed-latimore) <br>
+[Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade) <br>
 
 <br><br><br>
 # Still setting Up!<br><br><br> 
