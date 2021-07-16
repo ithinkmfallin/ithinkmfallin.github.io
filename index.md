@@ -24,6 +24,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [ Mike Vacanti - On Training Gary Vee, Social Media , Meditation](https://ithinkmfallin.github.io/2021/07/15/mike-vacanti) <br>
 [Ed Latimore - Boxing, Sobriety, Writing](https://ithinkmfallin.github.io/2021/07/15/ed-latimore) <br>
 [Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade) <br>
+[Mental Toughness Is Not Optional](https://ithinkmfallin.github.io/2021/07/16/mental-toughness) <br>
 
 <br><br>
 
