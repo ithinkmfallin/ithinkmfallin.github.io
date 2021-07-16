@@ -110,7 +110,7 @@
 <br>
 <br>
 
-[Freedom of the Known](https://www.amazon.in/Freedom-Known-J-Krishnamurti/dp/1846042135/ref=sr_1_1?dchild=1&keywords=freedom+of+the+known&qid=1626340288&sr=8-1) by J Krishnamurti
+[Freedom of the Known by J. Krishnamurti](https://www.amazon.in/Freedom-Known-J-Krishnamurti/dp/1846042135/ref=sr_1_1?dchild=1&keywords=freedom+of+the+known&qid=1626340288&sr=8-1) 
 
 
 	
