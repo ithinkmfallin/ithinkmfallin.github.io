@@ -14,6 +14,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 
 ### Podcasts
+[Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
 [Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
 [Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
 [Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
@@ -30,7 +31,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 <form action="https://formspree.io/f/moqyndrw" method="POST">
 <input type="email" placeholder="Email" name="_replyto" required>
-<input type="text" placeholder="Message" name="Your Message" required>
+<input type="text" placeholder="Leave A Message" name="Your Message" required>
 <input type="submit" value="Send">
 </form>
 
