@@ -14,6 +14,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 
 ### Podcasts
+[Shelby Smith – Social Media Fast, Living Abroad, Languages](https://ithinkmfallin.github.io/2021/07/25/shelby-smith) <br>
 [Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
 [Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
 [Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
