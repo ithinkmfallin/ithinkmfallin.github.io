@@ -27,6 +27,9 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade) <br>
 [Mental Toughness Is Not Optional](https://ithinkmfallin.github.io/2021/07/16/mental-toughness) <br>
 
+### Wisdom
+[Truth Telling + Notes Of An Elder]()
+
 <br><br>
 
 <form action="https://formspree.io/f/moqyndrw" method="POST">
