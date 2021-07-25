@@ -29,7 +29,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Mental Toughness Is Not Optional](https://ithinkmfallin.github.io/2021/07/16/mental-toughness) <br>
 
 ### Wisdom
-[Truth Telling + Notes Of An Elder]()
+[Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
 
 <br><br>
 
