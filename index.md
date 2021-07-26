@@ -14,13 +14,14 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 
 ### Podcasts
-[Robbie Crabtree - How To Communicate Like A Pro](https://ithinkmfallin.github.io/2021/07/26/robbie-crabtree) <br>
+
 [Shelby Smith – Social Media Fast, Living Abroad, Languages](https://ithinkmfallin.github.io/2021/07/25/shelby-smith) <br>
+[Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
 [Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
 [Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
 [Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
-[Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
 [Michael Paik - On Online Business, Positivity and Books](https://ithinkmfallin.github.io/2021/07/15/michael-paik) <br>
+[Robbie Crabtree - How To Communicate Like A Pro](https://ithinkmfallin.github.io/2021/07/26/robbie-crabtree) <br>
 [Eugene Wei: Compress to Impress](https://ithinkmfallin.github.io/2021/07/15/eugene) <br>
 [Uncomfortably Comfortable Ft. Ryan Michler- Part 1](https://ithinkmfallin.github.io/2021/07/15/uncomfortably-comfortable) <br>
 [Hunter Weiss - 50 Mile Run](https://ithinkmfallin.github.io/2021/07/15/hunter-weiss) <br>
