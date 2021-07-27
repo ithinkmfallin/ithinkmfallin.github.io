@@ -19,6 +19,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
 [Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
 [Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
+[Manny De La Cruz - Lessons For His 25-Year-Old Self](https://ithinkmfallin.github.io/2021/07/27/manny) <br>
 [Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
 [Michael Paik - On Online Business, Positivity and Books](https://ithinkmfallin.github.io/2021/07/15/michael-paik) <br>
 [Robbie Crabtree - How To Communicate Like A Pro](https://ithinkmfallin.github.io/2021/07/26/robbie-crabtree) <br>
