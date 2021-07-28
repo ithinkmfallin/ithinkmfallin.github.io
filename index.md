@@ -30,6 +30,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Ed Latimore - Boxing, Sobriety, Writing](https://ithinkmfallin.github.io/2021/07/15/ed-latimore) <br>
 [Flowgrade](https://ithinkmfallin.github.io/2021/07/15/flowgrade) <br>
 [Mental Toughness Is Not Optional](https://ithinkmfallin.github.io/2021/07/16/mental-toughness) <br>
+[Nate Schmidt – Online Business, Spirituality, & Personal Growth](https://ithinkmfallin.github.io/2021/07/28/nate-schmidt) <br>
 
 ### Wisdom
 [Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
