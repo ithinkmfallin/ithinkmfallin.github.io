@@ -32,6 +32,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Mental Toughness Is Not Optional](https://ithinkmfallin.github.io/2021/07/16/mental-toughness) <br>
 [Nate Schmidt – Online Business, Spirituality, & Personal Growth](https://ithinkmfallin.github.io/2021/07/28/nate-schmidt) <br>
 [Stew Fortier – Trading A Grain Of Rice For A Mountain](https://ithinkmfallin.github.io/2021/07/29/stew-fortier) <br>
+[Jose Rosado – Learning English, Mindset, & Haters](https://ithinkmfallin.github.io/2021/07/30/jose-rosado) <br>
 
 ### Wisdom
 [Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
