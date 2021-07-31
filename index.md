@@ -33,6 +33,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Nate Schmidt – Online Business, Spirituality, & Personal Growth](https://ithinkmfallin.github.io/2021/07/28/nate-schmidt) <br>
 [Stew Fortier – Trading A Grain Of Rice For A Mountain](https://ithinkmfallin.github.io/2021/07/29/stew-fortier) <br>
 [Jose Rosado – Learning English, Mindset, & Haters](https://ithinkmfallin.github.io/2021/07/30/jose-rosado) <br>
+[Ryan Mulholland – Relearning Creativity](https://ithinkmfallin.github.io/2021/07/31/ryan-mulholland) <br>
 
 ### Wisdom
 [Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
