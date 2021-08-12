@@ -19,6 +19,8 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
 [Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
 [Du - Wall Street To Self-Love](https://ithinkmfallin.github.io/2021/07/15/Du) <br>
+[Madison Fischer – High Performance Secrets From A 19-Year-Old Rock Climber](https://ithinkmfallin.github.io/2021/08/12/madison-fischer) <br>
+[Dickie Bush – Princeton Football, Personal Growth](https://ithinkmfallin.github.io/2021/08/12/dickie-bush) <br>
 [Manny De La Cruz - Lessons For His 25-Year-Old Self](https://ithinkmfallin.github.io/2021/07/27/manny) <br>
 [Gary Vaynerchuk - The GaryVee Story](https://ithinkmfallin.github.io/2021/07/15/Garyvee) <br>
 [Michael Paik - On Online Business, Positivity and Books](https://ithinkmfallin.github.io/2021/07/15/michael-paik) <br>
