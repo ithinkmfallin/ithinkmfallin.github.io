@@ -36,6 +36,8 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Stew Fortier – Trading A Grain Of Rice For A Mountain](https://ithinkmfallin.github.io/2021/07/29/stew-fortier) <br>
 [Jose Rosado – Learning English, Mindset, & Haters](https://ithinkmfallin.github.io/2021/07/30/jose-rosado) <br>
 [Ryan Mulholland – Relearning Creativity](https://ithinkmfallin.github.io/2021/07/31/ryan-mulholland) <br>
+[Rob Riker - How To Make Friends](https://ithinkmfallin.github.io/2021/08/13/rob-riker) <br>
+[Joel Runyon – Mental Toughness, Goggins, 4-4-52](https://ithinkmfallin.github.io/2021/08/13/joel-runyon) <br>
 
 ### Wisdom
 [Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
