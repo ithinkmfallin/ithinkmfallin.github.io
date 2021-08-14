@@ -15,6 +15,7 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 
 ### Podcasts
 
+[Nicolas Cole - Flipping Negative Into Positive](https://ithinkmfallin.github.io/2021/08/14/nicolas-cole) <br>
 [Shelby Smith – Social Media Fast, Living Abroad, Languages](https://ithinkmfallin.github.io/2021/07/25/shelby-smith) <br>
 [Yous - Filling Your Own Cup, Habits & Seaons](https://ithinkmfallin.github.io/2021/07/15/Yous) <br>
 [Dan Go - On Psychedelics, Twitter, Pursuing Your Vision](https://ithinkmfallin.github.io/2021/07/24/dan-go) <br>
@@ -38,6 +39,9 @@ This is a page for notes on various books, podcasts, and insights. (Notes not me
 [Ryan Mulholland – Relearning Creativity](https://ithinkmfallin.github.io/2021/07/31/ryan-mulholland) <br>
 [Rob Riker - How To Make Friends](https://ithinkmfallin.github.io/2021/08/13/rob-riker) <br>
 [Joel Runyon – Mental Toughness, Goggins, 4-4-52](https://ithinkmfallin.github.io/2021/08/13/joel-runyon) <br>
+[Alexander Hugh Sam – Kaizen, Consistency, 75 HARD](https://ithinkmfallin.github.io/2021/08/14/alexander-hugh-sam) <br>
+[Eddy Quan - War on Weakness](https://ithinkmfallin.github.io/2021/08/14/eddy-quan) <br>
+
 
 ### Wisdom
 [Truth Telling + Notes of an Elder](https://ithinkmfallin.github.io/2021/07/25/truth-telling)
