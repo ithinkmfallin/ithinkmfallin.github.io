@@ -8,9 +8,14 @@ I value curiosity, humility, and simplicity. My happy place is a quiet coffee sh
 This is a page for notes on various books, podcasts, and insights. (Notes not meant to replace the original sources.) <br>
 
 ### Books
-[Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) <br>
-[Freedom of the Known](https://ithinkmfallin.github.io/2021/07/15/freedom-of-the-known) <br>
-[Tribe: On Homecoming And Belonging](https://ithinkmfallin.github.io/2021/07/16/tribe) <br>
+#### 2022
+(6/10) [The Seasons of Life](https://ithinkmfallin.github.io/2022/01/02/the-seasons-of-life) <br>
+
+#### 2021
+(10/10) [Mindset](https://ithinkmfallin.github.io/2021/07/15/Mindset) <br>
+(10/10) [Tribe: On Homecoming And Belonging](https://ithinkmfallin.github.io/2021/07/16/tribe) <br>
+(6/10) [Freedom of the Known](https://ithinkmfallin.github.io/2021/07/15/freedom-of-the-known) <br>
+
 
 
 ### Podcasts
