@@ -27,8 +27,6 @@
 * Reserve your greatest respect for yourself, for it is that image.. what you percieve yourself to be.. that determines the quality of lofe.
 * One solution that will support you when people and events hurt you is to learn to work harder on your personal growth than anything else.
 * Be aware that what you put into this world is what we get back from it. 
-* 
-
 
 <br><br>
 [The Seasons of Life by Jim Rohn](https://www.amazon.in/Seasons-Life-Secrets-Success-Reprint/dp/1921596295) 
